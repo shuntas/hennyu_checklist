@@ -1,0 +1,9 @@
+ul{
+  list-style-type: disc;
+}
+.image{
+  height: 200px;
+}
+.large-image{
+  border: solid 1px gray;
+}
